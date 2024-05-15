@@ -27,4 +27,4 @@ green | 0x0000ff | my color
 
 ### connect with me.
 ![SureetGhuman](https://github.com/desktop/desktop/assets/169951373/f9aaed8e-dffa-4234-96fd-4a7c032f06f0)
-*Instagram(https://www.instagram.com/sureet_kahlon/)
+(https://www.instagram.com/sureet_kahlon/)
