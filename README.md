@@ -26,5 +26,5 @@ green | 0x0000ff | my color
 - 🌱 I’m currently training on [GitHub Course](website)
 
 ### connect with me.
-[<img alt="Sureet Kaur" width="40px" src="https://user-images.githubusercontent.com/35807054/118406518-e8374d80-b641-11eb-82ac-dd6b3ceca506.jpg" />][website]
+[<img alt="Sureet Kaur" width="40px" src=resume.jpg" />][website]
 [website]:(https://www.instagram.com/sureet_kahlon/)
