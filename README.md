@@ -3,13 +3,14 @@
 *Sureetghuman17@gmail.com*<br/>
 469-584-3625
 # Technologies
-- C++
+- Next
+- Node
 - Javascript
 - HTML
-- Python
+- MERN
 - Css
 # Education
-* Associates in Business
+* Certfication in Software Engineering
 * Bachelors of Computer Science(Currently)
 # Hobbies
 * Sketching/Painting
